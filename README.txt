@@ -1,4 +1,4 @@
-# Jenkins
+# Jenkins junto a Maven para la compilacion y despliegue y entrega continua de una aplicacion java.
 #Crear imagen
 cd jenkinsdocker
 docker build -t jenkins-cicd --no-cache
